@@ -1,2 +1,2 @@
 # Python-explore-business-insights
-Using Pandas to analyze data and explore insights of business 
+## Using pandas and numpy to analyze data for exploring business insights
