@@ -10,4 +10,4 @@
 ### Work steps of this project
     1) Import and review dataset
     2) Data cleansing
-    3) Let's alalyze
+    3) Let's analyze
