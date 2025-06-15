@@ -1,5 +1,5 @@
 # Python-explore-business-sales-insights
-## Using pandas, numpy and matplotlib to analyze data to explore business insights
+## Using pandas, numpy and matplotlib to analyze data to explore business sales insights
 ### Missions: 6 insights to explore 
 1) How much total sales, average sales, and standard deviation of sales your company make in 2017
 2) Which segment has the highest profit in 2018
